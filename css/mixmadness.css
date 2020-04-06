@@ -1,8 +1,4 @@
-/*.container-fluid {
-    padding-left: 0;
-    padding-right: 0;
-}*/
-
-.dark-background {
-    background: '#070707';
+.fit-image {
+    width: 100%;
+    object-fit: cover;
 }
